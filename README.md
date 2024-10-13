@@ -82,4 +82,4 @@ async def on_command_error(ctx, error):
         await ctx.send(f'{ctx.author.mention}, tu n\'as pas les permissions nécessaires pour utiliser cette commande.')
 
 # Démarrage du bot
-bot.run(DISCORD_TOKEN=MTIwODA4ODc3MTYyMzUyMjM5NQ.GX-SRJ.o5PAreLW9IxR2jisIfQe9ZK2XFHTWGvhw3cJ0g)
+DISCORD_TOKEN=MTIwODA4ODc3MTYyMzUyMjM5NQ.GX-SRJ.o5PAreLW9IxR2jisIfQe9ZK2XFHTWGvhw3cJ0g
